@@ -1,8 +1,0 @@
-HTTP/1.1 200 OK
-content-type: text/plain; charset=utf-8
-date: Fri, 12 Aug 2022 02:59:59 GMT
-transfer-encoding: chunked
-server: Fly/4a36ef6e (2022-08-11)
-via: 1.1 fly.io
-fly-request-id: 01GA7ZX1TE9NKA6SF91A42KHYD-iad
-

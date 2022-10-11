@@ -1,6 +1,0 @@
-proxies:
-- {"name":"CN_1","server":"linux.nameserversv3.com","port":9203,"type":"ss","password":"269f71b9-c45b-43f3-8c48-eb5f986aa707","cipher":"aes-256-gcm"}
-- {"name":"CN_2","server":"linux.nameserversv3.com","port":9205,"type":"ss","password":"269f71b9-c45b-43f3-8c48-eb5f986aa707","cipher":"aes-256-gcm"}
-- {"name":"CN_3","server":"uiug.expirationv3.com","port":9405,"type":"ss","password":"269f71b9-c45b-43f3-8c48-eb5f986aa707","cipher":"aes-256-gcm"}
-- {"name":"FR_4","server":"51.195.136.209","port":50004,"type":"ss","password":"4415934295","cipher":"aes-256-cfb"}
-- {"name":"US_5","server":"38.68.135.18","port":8090,"type":"ss","password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
