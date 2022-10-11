@@ -1,0 +1,27 @@
+name: Fetching Nodes
+
+on:
+  schedule:
+   - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  Fetch:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js 
+      uses: actions/setup-node@v3
+      with:
+        node-version: 16.0
+    - run: chmod 777 ./libs/subconverter/*
+    - run: git config pull.rebase false && git config --local user.name "GitHub Actions" && git config --local user.email "actions@github.com" && rm ./nodefetcher/out.txt && git status -s && git add . && git commit -m "del"
+    - name: fetch
+      env: 
+        PAIMONNODE_DB_URI: ${{ secrets.PAIMONNODE_DB_URI }}
+      run: npm ci && node bundle
+    - name: Configure Git
+      run: chmod 777 ./up.sh
+    - run: ./up.sh
