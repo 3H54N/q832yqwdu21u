@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Headers: content-type
+Access-Control-Allow-Methods: DELETE,PUT,POST,GET,OPTIONS
+Access-Control-Allow-Origin: *
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Length: 56455
+Content-Type: text/html; charset=utf-8
+Date: Fri, 12 Aug 2022 02:59:43 GMT
+Etag: W/"dc87-frrPE8TNXXRCy0JcsJs2/cgZ/Uc"
+Server: Vercel
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Vercel-Cache: MISS
+X-Vercel-Id: iad1::iad1::gxhxn-1660273183026-d33a0e4346d4
+Connection: close
+

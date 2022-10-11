@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 29 Aug 2022 09:37:31 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+subscription-userinfo: upload=7830153410; download=95638866311; total=1099511627776; expire=1661868661
+profile-update-interval: 24
+content-disposition: attachment;filename*=UTF-8''HootFun%E8%B6%A3%E4%BA%91
+Strict-Transport-Security: max-age=31536000
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=pX5l4ugRPoZfdYrnyEkJC7ZdjypgAFtH06P%2Be33d%2Fz608ztUrSUSQVvdLZm7iJqdIOotDLrM0PlVJjNorPkfbvZrlP2y%2FDkPggR0RTTSfeUynP%2BqSLdJ9HYf6mw%3D"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+CF-RAY: 74244ef95eca7c91-LAX
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+X-Cache: MISS
+Cache-Control: no-cache
+

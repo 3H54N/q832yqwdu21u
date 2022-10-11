@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Thu, 25 Aug 2022 15:33:06 GMT
+Content-Type: text/plain; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+vary: Accept-Encoding
+Cache-Control: public, max-age=14400
+expires: Thu, 01 Sep 2022 09:47:11 GMT
+x-paste-time: Thu, 25 Aug 2022 09:47:11 GMT
+etag: W/"20ec-YTgMadsASxytvlI1KwbULJswi5s"
+CF-Cache-Status: HIT
+Age: 5938
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FiZ5qDsUMwuMSfxpd8OyfRj7nlXgAepQyOEuEaEG0m9qckmG%2FsAgX53iUUL7RbG0knXKQM5PToiDDEe3%2FONWFqkO4o%2FD960FncDuP61WetsZ7PKSUQMqCFWXIpTlLVBxEWC1"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 740562592cec943a-SJC
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+

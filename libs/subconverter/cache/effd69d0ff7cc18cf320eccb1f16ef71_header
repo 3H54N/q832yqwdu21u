@@ -1,0 +1,27 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 29 Aug 2022 09:39:55 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 14005
+Connection: close
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+ETag: "98ffe1d6a6e501dfeaa9d8f5214ecca229c26f5f834cb19db87a8f7cb41b00a2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A904:8EA5:BD1988:E39B1A:630C8753
+Accept-Ranges: bytes
+Via: 1.1 varnish
+X-Served-By: cache-nrt-rjtf7700056-NRT
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1661765995.071787,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+X-Fastly-Request-ID: f2b62cdd39278ed87907ba7138dc0349a1f8cb58
+Expires: Mon, 29 Aug 2022 09:44:55 GMT
+Source-Age: 143
+Strict-Transport-Security: max-age=63072000
+
